@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddorEven", "OddorEven\OddorEven.csproj", "{1FC4E292-C695-471B-BAA6-A236540E3653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC4E292-C695-471B-BAA6-A236540E3653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC4E292-C695-471B-BAA6-A236540E3653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC4E292-C695-471B-BAA6-A236540E3653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC4E292-C695-471B-BAA6-A236540E3653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECDE461E-CBE0-4D3E-9E4E-6D55E3A8A362}
+	EndGlobalSection
+EndGlobal
